@@ -1,22 +1,10 @@
-# 대문 화면
+# Welcom to ssafy 05 seoul 02
+- IM 취득!
 
 ## Hello, world
+안녕하세요!
 
-### this is ssfay 05 seoul 02!
-
-
-```
-$ git add
-$ git commit
-$ git switch(checkout) <branch name>
-$ git branch <branch name>
-$ git switch -c <branch name>
-$ git branch -d <branch name>
-$ git merge <branch name>
-$ git reflog
-```
-```
-HEAD
-master
-other-branch
-```
+### this is ssfay 05 seoul 02!!
+- 디스코드
+- 노션
+- 구글 시트
